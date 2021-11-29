@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(182, 214, 202);
+}
+
+h1,h2{
+    color:steelblue;
+    font-family: 'Amatic SC', cursive;
+}
+
+h1{
+    font-size: 40px;
+    font-weight: 900;
+}
+
+h2{
+    font-size: 30px;
+}
+
+li{
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+    font-weight: bold;
+}
