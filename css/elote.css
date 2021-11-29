@@ -1,3 +1,18 @@
 body{
     background-color: rgba(209, 209, 144, 0.835);
 }
+
+h1,h2{
+    color: rgb(128, 41, 0);
+    font-family: 'Caveat', cursive;
+}
+
+h2{
+    font-size: 28px;
+}
+
+li,p{
+    font-family: 'Amatic SC', cursive;
+    font-size: 28px;
+    font-weight: bolder;
+}
