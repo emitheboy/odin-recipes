@@ -27,3 +27,11 @@ p{
     font-size: 30px;
     font-weight: bold;
 }
+
+.ham {
+    display: block;
+    margin-right: auto;
+    width: 50%;
+    border: 5px black solid;
+    border-radius: 25px;
+}
