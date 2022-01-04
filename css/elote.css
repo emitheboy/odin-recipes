@@ -16,3 +16,10 @@ li,p{
     font-size: 28px;
     font-weight: bolder;
 }
+.elote{
+    display: block;
+    margin-right: auto;
+    width: 50%;
+    border: 5px black solid;
+    border-radius: 25px;
+}
